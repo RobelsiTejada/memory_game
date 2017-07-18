@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# wdi-fundamentals-memorygame
+# memory_game
 Memory Game
 =======
 # memory_game
